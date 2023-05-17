@@ -1,2 +1,2 @@
 # go-server
-A simple go server that runs on localhost
+A simple server that runs on localhost built using golang
